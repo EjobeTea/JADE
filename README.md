@@ -1,6 +1,7 @@
-# java-swing
+# JADE
 Simple java program created using Swing. Created for an Object Oriented Programming course. 
 <br />Creates coffee, donuts, or servers and displays it.
+<br />Built project in weekly sprints, more information in the "Jade Manager.ods" file.
 
 # How to compile and execute
 Utilizes Apache Ant, "build.xml" file is included already.
