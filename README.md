@@ -8,7 +8,7 @@ Utilizes Apache Ant, "build.xml" file is included already.
 
 
 # Features
-*Click on either the tool bar or menu bar to create various objects, such as Donut or Java. 
-*Create people, such as customers or servers. 
-*Edit an object, under the edit toolbar (WIP). Will bring up all the objects created and re-issue a corresponding menu to select item.
-*After creating a few products, under Reports in the tool bar will give profits and loss.
+* Click on either the tool bar or menu bar to create various objects, such as Donut or Java. 
+* Create people, such as customers or servers. 
+* Edit an object, under the edit toolbar (WIP). Will bring up all the objects created and re-issue a corresponding menu to select item.
+* After creating a few products, under Reports in the tool bar will give profits and loss.
