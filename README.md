@@ -1,10 +1,10 @@
 # java-swing
 Simple java program created using Swing. Created for an Object Oriented Programming course. 
-\nCreates coffee, donuts, or servers and displays it.
+<br />Creates coffee, donuts, or servers and displays it.
 
 # How to compile and execute
 Utilizes Apache Ant, "build.xml" file is included already.
-\nWhile inside the "jade" file, simply write the command "ant" to build the project and "java gui.MainWin" to execute the program.
+<br />While inside the "jade" file, simply write the command "ant" to build the project and "java gui.MainWin" to execute the program.
 
 
 # Features
